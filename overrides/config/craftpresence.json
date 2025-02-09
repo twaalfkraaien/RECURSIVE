@@ -138,7 +138,8 @@
       "DODECROW": "https://mc-heads.net/avatar/c7bb9e1efeb44023b25c6e52cb2dbe65",
       "mc.forsaken-borders.net": "https://api.mcsrvstat.us/icon/mc.forsaken-borders.net",
       "stackcreative.brdsnst.me": "https://api.mcsrvstat.us/icon/stackcreative.brdsnst.me",
-      "51.81.178.29": "https://api.mcsrvstat.us/icon/51.81.178.29"
+      "51.81.178.29": "https://api.mcsrvstat.us/icon/51.81.178.29",
+      "stackcamping.brdsnst.me": "https://api.mcsrvstat.us/icon/stackcamping.brdsnst.me"
     },
     "dynamicVariables": {
       "default": "Example Text",
